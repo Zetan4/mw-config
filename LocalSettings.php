@@ -2425,6 +2425,7 @@ $wgConf->settings = array(
 		'microsoftwiki' => "//$wmgUploadHostname/microsoftwiki/6/66/Logoforwiki.png",
 		'moralecwiki' => "//$wmgUploadHostname/moralecwiki/e/e8/Moralec-pluto.png",
 		'newcolumbiawiki' => "//$wmgUploadHostname/newcolumbiawiki/2/2a/USNC_sunflower_logo.png",
+		'newsniviwiki' => "//$wmgUploadHostname/newsniviwiki/c/c9/Logo.png",
 		'nanopediawiki' => "//$wmgUploadHostname/nanopediawiki/c/c9/Logo.png",
 		'oneagencydunedinwiki' => "//$wmgUploadHostname/oneagencydunedinwiki/e/eb/OneAgency_WikiLogo_Black.png",
 		'ontariobrasswiki' => "//$wmgUploadHostname/ontariobrasswiki/0/09/Ontariobrass.png",
